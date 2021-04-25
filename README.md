@@ -29,3 +29,5 @@ cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
 ```python
 cal_undistort(img, objpoints, imgpoints)
 ```
+chessboard distortion result
+(https://github.com/ruyi-tsai/CarND-Advanced-Lane-Lines/blob/master/output_images/undistortion.png)
